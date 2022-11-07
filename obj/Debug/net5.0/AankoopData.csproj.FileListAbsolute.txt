@@ -1,0 +1,15 @@
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.AssemblyInfoInputs.cache
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.AssemblyInfo.cs
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.csproj.CoreCompileInputs.cache
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\AankoopData.deps.json
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\AankoopData.runtimeconfig.json
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\AankoopData.runtimeconfig.dev.json
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\AankoopData.dll
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\ref\AankoopData.dll
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\bin\Debug\net5.0\AankoopData.pdb
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.dll
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\ref\AankoopData.dll
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.pdb
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.genruntimeconfig.cache
+C:\Users\liice\source\repos\Aankoop202205\AankoopData\obj\Debug\net5.0\AankoopData.csproj.AssemblyReference.cache
